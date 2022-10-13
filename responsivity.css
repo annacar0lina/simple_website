@@ -1,0 +1,41 @@
+/* @media screen and (max-width: 768px) {
+    
+    body{
+        overflow: hidden;
+    }
+
+    nav{
+        width: 100vw;
+        /* overflow: hidden; */
+    /* }
+    
+    nav .navigation ul{
+
+        width: 52%;
+        height: 45vh;
+        position: absolute;
+        top: 6.7vh;
+        left: 0;
+        background: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        background-color: royalblue;
+        transform: translateX(100%);
+        transition: transform .5s ease-in;
+    }
+
+    nav .navigation ul li {
+        opacity: 0;
+    }
+
+    nav #menu-btn {
+    display: block;
+    }
+
+}
+
+.nav-active {
+    transform: translateX(0%); */
+/* } */ 
